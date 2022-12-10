@@ -1,5 +1,4 @@
 ﻿namespace NFY.Console
-
 {
     using System;
     internal class Program
